@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-sahu.deepak2500%40gmail.com-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="tel:+919711955491">
-    <img src="https://img.shields.io/badge/Phone-%252B91--9711955491-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/Phone-%2B91--9711955491-059669?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
   <a href="https://github.com/DeepakSahu25">
     <img src="https://img.shields.io/badge/GitHub-DeepakSahu25-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
